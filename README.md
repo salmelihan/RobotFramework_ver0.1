@@ -54,7 +54,7 @@ pip install robotframework==3.0.4
 pip install robotframework-seleniumlibrary==3.2.0
 ```
 ```
-pip install robotframework-dependencylibrary
+pip install PyYAML
 ```
 
 ##
