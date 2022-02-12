@@ -19,10 +19,6 @@ For editing the scirpt, I Recommend to use [Pycharm IDE](https://download.jetbra
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 #### 1. Python
 
 Please you need to download base on the opreting system that you are using. I recommend to Python 3.7 on the following links:
