@@ -97,7 +97,7 @@ C:\Users\{YourAccountName}\Desktop>cd XProject
 ```
 And then to run the script you have to execute the Test Cases as the following and prss enter
 ```
-C:\Users\{YourAccountName}\Desktop\XProject>pybot -d Results Tests/TestSuite.robot
+C:\Users\{YourAccountName}\Desktop\XProject>robot -d Results Tests/TestSuite.robot
 ```
 ## Authors
 
